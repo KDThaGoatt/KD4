@@ -1,0 +1,91 @@
+#div1 {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    width: 200px;
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: #f0ebc1;
+}
+.titles {
+    font-weight: 1000;
+    font-size: 1.1em;
+}
+#div2 {
+    position: absolute;
+    top: 50px;
+    right: 50px;
+    width: 200px;
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: #f0ebc1;
+}
+#div3 {
+    position: absolute;
+    top: 265px;
+    right: 50px;
+    width: 200px;
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: #f0ebc1;
+}
+#div4 {
+    position: absolute;
+    top: 470px;
+    left: 50px;
+    width: 200px;
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: rgb(240, 235, 193);
+}
+#div5 {
+    position: absolute;
+    top: 486px;
+    right: 50px;
+    width: 200px;
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: rgb(240, 235, 193);
+}
+#div6 {
+    position: absolute;
+    top: 650px;
+    left: 50px;
+    width: 460px;
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: rgb(240, 235, 193);
+}
+#div1:hover {
+    background-image: url("Crow.jpg");
+    text-shadow: -1px -1px white, -1px 1px 0 white, 1px 1px 0 white;
+}
+#div2:hover {
+    background-image: url("sleeping.jpg");
+    text-shadow: -1px -1px white, -1px 1px 0 white, 1px 1px 0 white;
+}
+#div3:hover {
+    background-image: url("images.jpg");
+    text-shadow: -1px -1px white, -1px 1px 0 white, 1px 1px 0 white;
+}
+#div4:hover {
+    background-image: url("dump.jpg");
+    text-shadow: -1px -1px white, -1px 1px 0 white, 1px 1px 0 white;
+}
+#div5:hover {
+    background-image: url("jack.jpg");
+    text-shadow: -1px -1px white, -1px 1px 0 white, 1px 1px 0 white;
+}
+#div6:hover {
+    background-image: url("mary.jpg");
+    text-shadow: -1px -1px white, -1px 1px 0 white, 1px 1px 0 white;
+}
+body {
+    background-color: #add8e6;
+}

@@ -1,0 +1,97 @@
+#div1 {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    width: 200px;
+    border: 3px solid white;
+    padding: 20px;
+    background-color: #0f143e;
+    color:white;
+    border-radius:10px;
+}
+.titles {
+    font-weight: 1000;
+    font-size: 1.1em;
+}
+#div2 {
+    position: absolute;
+    top: 50px;
+    right: 50px;
+    width: 200px;
+    border: 3px solid white;
+    padding: 20px;
+    background-color: #0f143e;
+    color:white;
+    border-radius:10px;
+}
+#div3 {
+    position: absolute;
+    top: 265px;
+    right: 50px;
+    width: 200px;
+    border: 3px solid white;
+    padding: 20px;
+    background-color: #0f143e;
+    color:white;
+    border-radius:10px;
+}
+#div4 {
+    position: absolute;
+    top: 470px;
+    left: 50px;
+    width: 200px;
+    border: 3px solid white;
+    padding: 20px;
+    background-color: #0f143e;
+    color:white;
+    border-radius:10px;
+}
+#div5 {
+    position: absolute;
+    top: 486px;
+    right: 50px;
+    width: 200px;
+    border: 3px solid white;
+    padding: 20px;
+    background-color: #0f143e;
+    color:white;
+    border-radius:10px;
+}
+#div6 {
+    position: absolute;
+    top: 650px;
+    left: 50px;
+    width: 460px;
+    border: 3px solid white;
+    padding: 20px;
+    background-color: #0f143e;
+    color:white;
+    border-radius:10px;
+}
+#div1:hover {
+    background-image: url("INV-CROW.jpg");
+    text-shadow: -1px -1px black, -1px 1px 0 black, 1px 1px 0 black;
+}
+#div2:hover {
+    background-image: url("INV-SLEEPING.jpg");
+    text-shadow: -1px -1px black, -1px 1px 0 black, 1px 1px 0 black;
+}
+#div3:hover {
+    background-image: url("INV-IMAGES.jpg");
+    text-shadow: -1px -1px black, -1px 1px 0 black, 1px 1px 0 black;
+}
+#div4:hover {
+    background-image: url("INV-DUMP.jpg");
+    text-shadow: -1px -1px black, -1px 1px 0 black, 1px 1px 0 black;
+}
+#div5:hover {
+    background-image: url("INV-JACK.jpg");
+    text-shadow: -1px -1px black, -1px 1px 0 black, 1px 1px 0 black;
+}
+#div6:hover {
+    background-image: url("INV-MARY.jpg");
+    text-shadow: -1px -1px black, -1px 1px 0 black, 1px 1px 0 black;
+}
+body {
+    background-color: #522719;
+}
